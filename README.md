@@ -1,3 +1,3 @@
-# letsshop
+# BuyZaar
 
 A new Flutter project.
