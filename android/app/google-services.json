@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060523916231",
+    "project_id": "let-s-shop-47c2a",
+    "storage_bucket": "let-s-shop-47c2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060523916231:android:890f1dae572e4cdebbf7e2",
+        "android_client_info": {
+          "package_name": "com.example.letsshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4dn3gkS5wd40So7OpDicyKqoLSVC4Vz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
