@@ -9,6 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-latest    
 
+    concurrency:
+      group: DevOps
+      cancel-in-progress: true
+
     steps:
       # 1. Checkout your repository
       - name: Checkout repository
