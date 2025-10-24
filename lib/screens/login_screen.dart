@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:letsshop/admin_panel/admin_screen.dart';
 import 'package:letsshop/controllers/get_userdata_controller.dart';
-import 'package:letsshop/controllers/google_signIn_controller.dart';
+import 'package:letsshop/controllers/google_signin_controller.dart';
 import 'package:letsshop/controllers/signIn_controller.dart';
 import 'package:letsshop/screens/forgot_password_screen.dart';
 
